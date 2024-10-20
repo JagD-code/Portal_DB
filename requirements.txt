@@ -1,4 +1,6 @@
-streamlitstreamlit
+streamlit
 google-generativeai
 python-dotenv
+plotly
+sqlalchemy
 
